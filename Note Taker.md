@@ -20,7 +20,7 @@
   
   ## Installation
   
-  In order to install the depencencies, the user will need to open the integrated terminal and type "npm i". In order to actually run the live server, the user will need to type "npm start" in the terminal for the application to be deployed on the local server. 
+  In order to install the depencencies, the user will need to open the integrated terminal and type "npm i". In order to actually run the live server, the user will need to type "npm start" in the terminal for the application to be deployed on the local server. They will be able to view the link that the intigrated terminal provides after typing the commands. 
   
   ## Usage
   
